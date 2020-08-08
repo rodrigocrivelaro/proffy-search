@@ -21,9 +21,9 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 * HTML
 * CSS
-* JavaScript (em desenvolvimento 🚧)
-* Node.js (em desenvolvimento 🚧)
-* Nunjucks (em desenvolvimento 🚧)
+* JavaScript 
+* Node.js 
+* Nunjucks 
 * SQLite (em desenvolvimento 🚧)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
